@@ -26,7 +26,7 @@ Badis Sdiri
 
 
 github account :
-https://github.com/badis7
+[https://github.com/badis7](https://github.com/BadisSdiri)
 
 for more informations : 
 you can deploy the CNN architecture in detection and classification of objects 
